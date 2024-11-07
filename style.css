@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(77, 148, 210);
+    color: black;
+}
+img{
+    width: 40%;
+    height: 30%;
+}
+
+img:hover{
+    width: 40%;
+    height: 30%;
+    content: url(terror-analogico-o-terror-em-baixa-resolucao-mundo-e-historia-cover.jpg);
+}
